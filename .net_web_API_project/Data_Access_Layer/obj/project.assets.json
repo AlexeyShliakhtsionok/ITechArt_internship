@@ -9798,11 +9798,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aries\\Desktop\\MyInternshipRepository\\Data_Access_Layer\\Data_Access_Layer.csproj",
+      "projectUniqueName": "C:\\Users\\aries\\Desktop\\project\\.net_web_API_project\\Data_Access_Layer\\Data_Access_Layer.csproj",
       "projectName": "Data_Access_Layer",
-      "projectPath": "C:\\Users\\aries\\Desktop\\MyInternshipRepository\\Data_Access_Layer\\Data_Access_Layer.csproj",
+      "projectPath": "C:\\Users\\aries\\Desktop\\project\\.net_web_API_project\\Data_Access_Layer\\Data_Access_Layer.csproj",
       "packagesPath": "C:\\Users\\aries\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aries\\Desktop\\MyInternshipRepository\\Data_Access_Layer\\obj\\",
+      "outputPath": "C:\\Users\\aries\\Desktop\\project\\.net_web_API_project\\Data_Access_Layer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

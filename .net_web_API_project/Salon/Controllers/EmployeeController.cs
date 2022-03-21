@@ -46,7 +46,8 @@ namespace Salon.Controllers
         [HttpGet, Route("GetEmployeeViewModelById")]
         public ActionResult<EmployeeViewModel> GetEmployeeViewModelById(int id)
         {
-            return Ok(_employeeServices.GetEmployeeViewModelById(id));
+            var employee = _employeeServices.GetEmployeeViewModelById(id);
+            return Ok(employee);
         }
 
         [HttpGet]

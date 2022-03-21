@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JVngJemVaBNUYSE2VCYaSOsepXc1BNcjBeVr0l3I7GV5T+Cw5mf2i1s6t9Hybu0BTMCmZO6vWASPTuwhmbsmfA==",
+  "dgSpecHash": "AX165GtsrCFkfsQB3JLyUBuhFMmrEuUUTpphk+WRHeZcrbML8pHwi0GxloUCK3wgDst0cLCwfVBLjzoq0DLgqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aries\\Desktop\\MyInternshipRepository\\Salon\\Salon.csproj",
+  "projectFilePath": "C:\\Users\\aries\\Desktop\\project\\.net_web_API_project\\Salon\\Salon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aries\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\aries\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",

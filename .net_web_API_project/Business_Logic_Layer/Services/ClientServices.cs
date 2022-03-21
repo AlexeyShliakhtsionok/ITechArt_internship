@@ -1,6 +1,4 @@
 ﻿using Business_Logic_Layer.DBO.Clients;
-using Business_Logic_Layer.DBO.Feedbacks;
-using Business_Logic_Layer.DBO.Orders;
 using Business_Logic_Layer.Services.Interfaces;
 using Business_Logic_Layer.Utilities;
 using Data_Access_Layer.Entities;

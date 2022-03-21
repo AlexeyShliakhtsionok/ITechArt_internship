@@ -19,7 +19,7 @@ namespace Business_Logic_Layer.DBO.Mediafiles
         public bool IsProfilePhoto { get; set; }
         public bool IsEmployeePhoto { get; set; }
         public bool IsPromoPhoto { get; set; }
-        public string EmployeeFullname { get; set; }
-        public int EmployeeId { get; set; }
+        public string? EmployeeFullname { get; set; }
+        public int? EmployeeId { get; set; }
     }
 }
